@@ -41,3 +41,5 @@ Identified top-performing marketing channels driving maximum ROI
 Helped optimize ad spend allocation across campaigns
 
 Improved visibility into customer engagement trends
+
+snapshot -https://github.com/krishnaaggarwal1307/marketing-dashboard/blob/main/marketing%20analysis%20dashboard.png
